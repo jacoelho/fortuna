@@ -1,5 +1,7 @@
 # Fortuna
 
+ [![GoDoc](https://godoc.org/github.com/jacoelho/fortuna?status.svg)](http://godoc.org/github.com/jacoelho/fortuna)
+
 Learning implementation of fortuna algorithm described in cryptography engineering.
 
 Not suitable for real world application.
